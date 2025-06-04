@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Pawan Singh</h1>
-<h3 align="center">A passionate Engineer from India</h3>
+<h3 align="center">B.Tech Student from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnprZzA0aGJhb2s4NG55aHpvNnF4czVqcXh6NWt1OTAxOTQ3cHA5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
