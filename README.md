@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pawan Singh</h1>
 <h3 align="center">A passionate Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://paradox.ba/paradox/wp-content/uploads/2019/09/4paradox-animation.gif">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 
 - 🌱 I’m currently learning **WEB DEV**
