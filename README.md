@@ -5,23 +5,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Passionate+Developer;Full+Stack+Learner;Always+Building+🚀&center=true&width=500&height=45&color=00FFFF">
 </p>
 
-<p align="center">
-  <img alt="coding" width="300" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
-</p>
-
 ---
 
-## 🧠 About Me
-💻 Passionate developer exploring **Full Stack Development**  
-🚀 Love building real-world projects  
-⚡ Focused on clean UI + performance  
+<table>
+<tr>
 
----
+<!-- LEFT COLUMN -->
+<td width="35%" valign="top">
 
-## 🌱 Currently Learning
-- 🌐 MERN Stack  
-- ⚡ Backend Development  
-- 📊 Data Structures & Algorithms  
+<img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" width="100%"/>
 
 ---
 
@@ -48,15 +40,42 @@
 
 ---
 
-## 🛠️ Languages & Tools
-<p align="center">
+## 📫 Contact
+📧 **pawansinghmahroi@gmail.com**
 
-<img src="https://skillicons.dev/icons?i=c" /><br><br>
-<img src="https://skillicons.dev/icons?i=cpp" /><br><br>
-<img src="https://skillicons.dev/icons?i=html" /><br><br>
-<img src="https://skillicons.dev/icons?i=css" /><br><br>
-<img src="https://skillicons.dev/icons?i=js" /><br><br>
-<img src="https://skillicons.dev/icons?i=mysql" /><br><br>
+---
+
+## ⚡ Fun Fact
+💡 I turn coffee ☕ into code and ideas into projects 🚀
+
+</td>
+
+<!-- RIGHT COLUMN -->
+<td width="65%" valign="top">
+
+## 🧠 About Me
+💻 Passionate developer exploring **Full Stack Development**  
+🚀 Love building real-world projects  
+⚡ Focused on clean UI + performance  
+
+---
+
+## 🌱 Currently Learning
+- 🌐 MERN Stack  
+- ⚡ Backend Development  
+- 📊 Data Structures & Algorithms  
+
+---
+
+## 🛠️ Languages & Tools
+<p>
+
+<img src="https://skillicons.dev/icons?i=c" />
+<img src="https://skillicons.dev/icons?i=cpp" />
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=js" />
+<img src="https://skillicons.dev/icons?i=mysql" />
 <img src="https://skillicons.dev/icons?i=python" />
 
 </p>
@@ -92,12 +111,7 @@
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
 </p>
 
----
+</td>
 
-## 📫 Contact
-📧 **pawansinghmahroi@gmail.com**
-
----
-
-## ⚡ Fun Fact
-💡 I turn coffee ☕ into code and ideas into projects 🚀
+</tr>
+</table>
