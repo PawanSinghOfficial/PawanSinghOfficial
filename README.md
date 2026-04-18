@@ -89,29 +89,30 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Universe
+
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PawanSinghOfficial&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=PawanSinghOfficial&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PawanSinghOfficial&theme=tokyonight&hide_border=true"/>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanSinghOfficial&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PawanSinghOfficial&theme=tokyonight&hide_border=true&background=00000000"/>
 
 </p>
 
 ---
 
-<!-- Snake Animation -->
+## 🔥 Activity Graph (Animated Feel)
+
 <p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PawanSinghOfficial&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
-</td>
+---
 
-</tr>
-</table>
+## 🏆 Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=PawanSinghOfficial&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
+</p>
