@@ -18,26 +18,28 @@
 ---
 
 ## 🌐 Connect With Me
+
 <p align="center">
 
-<a href="https://linkedin.com/in/pawansinghofficial">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect%20Now-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://linkedin.com/in/pawansinghofficial" target="_blank">
+  <img src="https://img.icons8.com/color/48/linkedin.png" width="40"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
-<br><br>
-
-<a href="https://www.hackerrank.com/coded_by_pawan">
-  <img src="https://img.shields.io/badge/HackerRank-Code%20With%20Me-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+<a href="https://www.hackerrank.com/coded_by_pawan" target="_blank">
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" width="40"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
-<br><br>
-
-<a href="https://www.leetcode.com/coded_by_pawan">
-  <img src="https://img.shields.io/badge/LeetCode-Practice%20DSA-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<a href="https://www.leetcode.com/coded_by_pawan" target="_blank">
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="40"/>
 </a>
 
 </p>
 
+<p align="center">
+  <b>Let's connect, collaborate, and build something awesome 🚀</b>
+</p>
 ---
 
 ## 📫 Contact
