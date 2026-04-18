@@ -63,8 +63,7 @@
 ---
 
 ## 🌱 Currently Learning
-- 🌐 MERN Stack  
-- ⚡ Backend Development  
+- ⚡ Web Development  
 - 📊 Data Structures & Algorithms  
 
 ---
@@ -86,7 +85,6 @@
 
 ## 🏆 Highlights
 ✨ Participated in hackathons (Top selections)  
-⚡ Built web + app projects under deadlines  
 📈 Constantly improving dev & problem-solving skills  
 
 ---
