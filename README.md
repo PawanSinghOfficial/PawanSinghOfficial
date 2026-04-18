@@ -9,7 +9,7 @@
 - 📫 How to reach me **pawansinghmahroi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="centre">
 <a href="https://linkedin.com/in/pawansinghofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pawansinghofficial" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/coded_by_pawan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="coded_by_pawan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/coded_by_pawan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="coded_by_pawan" height="30" width="40" /></a>
