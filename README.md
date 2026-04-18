@@ -87,9 +87,8 @@
 ✨ Participated in hackathons (Top selections)  
 📈 Constantly improving dev & problem-solving skills  
 
----
-
-## 📊 GitHub Universe
+--
+## 📊 GitHub Stats
 
 <p align="center">
 
@@ -97,22 +96,17 @@
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PawanSinghOfficial&theme=tokyonight&hide_border=true&background=00000000"/>
+<img src="https://streak-stats.demolab.com?user=PawanSinghOfficial&theme=tokyonight&hide_border=true&background=00000000"/>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanSinghOfficial&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
 </p>
 
 ---
 
-## 🔥 Activity Graph (Animated Feel)
-
+<!-- Snake Animation -->
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PawanSinghOfficial&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=PawanSinghOfficial&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
 </p>
