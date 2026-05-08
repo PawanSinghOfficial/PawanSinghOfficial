@@ -55,7 +55,7 @@ I stopped drinking tea since yesterday ☕
 <!-- RIGHT COLUMN -->
 <td width="65%" valign="top">
 
-## 🧠 About Me
+## 🧠 𝔸𝔹𝕆𝕌𝕋 𝕄𝔼
 - same as other developers exploring **Full Stack Development**  
 - Love building real-world projects, when in the mood.
 - Focused on clean UI + performance (according to me) >_<
