@@ -62,7 +62,7 @@ I stopped drinking tea since yesterday ☕
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 ℂ𝕌ℝℝ𝔼ℕ𝕋𝕃𝕐 𝕃𝔼𝔸ℝℕ𝕀ℕ𝔾
 - ⚡ Web Development  
 - 📊 Data Structures & Algorithms
 - 💀 AI/ML 
