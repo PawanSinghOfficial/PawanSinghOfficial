@@ -2,7 +2,7 @@
 <h3 align="center">  🚀 ʙ.ᴛᴇᴄʜ ꜱᴛᴜᴅᴇɴᴛ | 💻 ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴇʀ | ⚡ ᴜᴋ  ʙᴏʏ  </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=ɴᴇxᴛ+ʟᴇᴠᴇʟ+ᴅᴇᴠᴇʟᴏᴘᴇʀ;ꜰᴜʟʟ+ꜱᴛᴀᴄᴋ+ᴇxᴘʟᴏʀᴇʀ;ᴀʟᴡᴀʏꜱ+ʙᴜɪʟᴅɪɴɢ+🚀&center=true&width=500&height=45&color=00FFFF">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=ɴᴇxᴛ+ʟᴇᴠᴇʟ+ᴅᴇᴠᴇʟᴏᴘᴇʀ+😛;ꜰᴜʟʟ+ꜱᴛᴀᴄᴋ+ᴇxᴘʟᴏʀᴇʀ+😜;ᴀʟᴡᴀʏꜱ+ʙᴜɪʟᴅɪɴɢ+😝&center=true&width=500&height=45&color=00FFFF">
 </p>
 
 ---
