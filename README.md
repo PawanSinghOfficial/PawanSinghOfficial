@@ -56,9 +56,9 @@
 <td width="65%" valign="top">
 
 ## 🧠 About Me
-💻 Passionate developer exploring **Full Stack Development**  
-🚀 Love building real-world projects  
-⚡ Focused on clean UI + performance  
+> Passionate developer exploring **Full Stack Development**  
+| Love building real-world projects  
+> Focused on clean UI + performance  
 
 ---
 
@@ -84,8 +84,8 @@
 ---
 
 ## 🏆 Highlights
-✨ Participated in hackathons (Top selections)  
-📈 Constantly improving dev & problem-solving skills  
+- hackathon finalist (10+) 
+- Constantly improving dev & problem-solving skills  
 
 --
 ## 📊 GitHub Stats
