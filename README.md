@@ -97,22 +97,6 @@ I stopped drinking tea since yesterday ☕
 
 ## 📊 𝔾𝕀𝕋𝕌𝔹 𝕊𝕋𝔸𝕋𝕊
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=PawanSinghOfficial&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=PawanSinghOfficial&theme=tokyonight&hide_border=true&background=00000000"/>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanSinghOfficial&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
-</p>
-
----
-
 <!-- Snake Animation -->
 <p align="center">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
