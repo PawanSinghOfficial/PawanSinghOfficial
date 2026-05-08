@@ -18,12 +18,15 @@
 ---
 
 ## 🌐 ℂ𝕆ℕℕ𝔼ℂ𝕋 𝕎𝕀𝕋ℍ 𝕄𝔼
-
-
 <p align="center">
 
 <a href="https://linkedin.com/in/pawansinghofficial" target="_blank">
   <img src="https://img.icons8.com/color/48/linkedin.png" width="40"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.geeksforgeeks.org/profile/pawansinghofficial?tab=activity" target="_blank">
+  <img src="https://img.icons8.com/color/48/GeeksforGeeks.png" width="40"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 
@@ -39,9 +42,8 @@
 </p>
 
 <p align="center">
-  <b>Let's connect, collaborate, and build something awesome 🚀</b>
+  
 </p>
----
 
 ## 📫 ℂ𝕆ℕ𝕋𝔸ℂ𝕋
 📧 **pawansinghmahroi@gmail.com**
