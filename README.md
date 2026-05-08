@@ -57,7 +57,7 @@ I stopped drinking tea since yesterday ☕
 <td width="65%" valign="top">
 
 ## 🧠 𝔸𝔹𝕆𝕌𝕋 𝕄𝔼
-- same as other developers exploring **Full Stack Development**  
+- Same as other developers, exploring **Full Stack Development**. 
 - Love building real-world projects, when in the mood.
 - Focused on clean UI + performance (according to me) >_<
 
@@ -69,6 +69,8 @@ I stopped drinking tea since yesterday ☕
 - 💀 AI/ML 
 
 ---
+
+
 
 ## 🛠️ 𝕃𝔸ℕ𝔾𝕌𝔸𝔾𝔼𝕊 𝔸ℕ𝔻 𝕋𝕆𝕆𝕃𝕊
 <p>
@@ -85,9 +87,13 @@ I stopped drinking tea since yesterday ☕
 
 ---
 
+
+
 ## 🏆 ℍ𝕀𝔾ℍ𝕃𝕀𝔾ℍ𝕋𝕊
-- hackathon finalist (10+) 
-- Constantly improving dev & problem-solving skills  
+- Hackathon finalist (10+) 
+- Constantly improving dev & problem-solving skills
+
+  
 
 ## 📊 𝔾𝕀𝕋𝕌𝔹 𝕊𝕋𝔸𝕋𝕊
 
