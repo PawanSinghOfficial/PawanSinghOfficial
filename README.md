@@ -17,7 +17,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ
 
 <p align="center">
 
@@ -42,12 +42,12 @@
 </p>
 ---
 
-## 📫 Contact
+## 📫 ᴄᴏɴᴛᴀᴄᴛ
 📧 **pawansinghmahroi@gmail.com**
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ꜰᴜɴ ꜰᴀᴄᴛ
 I stopped drinking tea since yesterday ☕
 
 </td>
@@ -69,7 +69,7 @@ I stopped drinking tea since yesterday ☕
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ 𝕃𝔸ℕ𝔾𝕌𝔸𝔾𝔼𝕊 𝔸ℕ𝔻 𝕋𝕆𝕆𝕃𝕊
 <p>
 
 <img src="https://skillicons.dev/icons?i=c" />
@@ -84,11 +84,11 @@ I stopped drinking tea since yesterday ☕
 
 ---
 
-## 🏆 Highlights
+## 🏆 ℍ𝕀𝔾ℍ𝕃𝕀𝔾ℍ𝕋𝕊
 - hackathon finalist (10+) 
 - Constantly improving dev & problem-solving skills  
 
-## 📊 GitHub Stats
+## 📊 ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ
 
 <p align="center">
 
