@@ -17,7 +17,8 @@
 
 ---
 
-## 🌐 ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ
+## 🌐 ℂ𝕆ℕℕ𝔼ℂ𝕋 𝕎𝕀𝕋ℍ 𝕄𝔼
+
 
 <p align="center">
 
@@ -42,12 +43,12 @@
 </p>
 ---
 
-## 📫 ᴄᴏɴᴛᴀᴄᴛ
+## 📫 ℂ𝕆ℕ𝕋𝔸ℂ𝕋
 📧 **pawansinghmahroi@gmail.com**
 
 ---
 
-## ⚡ꜰᴜɴ ꜰᴀᴄᴛ
+## ⚡𝔽𝕌ℕ 𝔽𝔸ℂ𝕋
 I stopped drinking tea since yesterday ☕
 
 </td>
@@ -88,7 +89,7 @@ I stopped drinking tea since yesterday ☕
 - hackathon finalist (10+) 
 - Constantly improving dev & problem-solving skills  
 
-## 📊 ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ
+## 📊 𝔾𝕀𝕋𝕌𝔹 𝕊𝕋𝔸𝕋𝕊
 
 <p align="center">
 
