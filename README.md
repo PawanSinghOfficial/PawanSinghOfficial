@@ -48,7 +48,7 @@
 ---
 
 ## ⚡ Fun Fact
-💡 I stopped drinking tea since yesterday ☕
+I stopped drinking tea since yesterday ☕
 
 </td>
 
@@ -56,15 +56,16 @@
 <td width="65%" valign="top">
 
 ## 🧠 About Me
-> Passionate developer exploring **Full Stack Development**  
-| Love building real-world projects  
-> Focused on clean UI + performance  
+- same as other developers exploring **Full Stack Development**  
+- Love building real-world projects, when in the mood.
+- Focused on clean UI + performance (according to me) >_<
 
 ---
 
 ## 🌱 Currently Learning
 - ⚡ Web Development  
-- 📊 Data Structures & Algorithms  
+- 📊 Data Structures & Algorithms
+- 💀 AI/ML 
 
 ---
 
