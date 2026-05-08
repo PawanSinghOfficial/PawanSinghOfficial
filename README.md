@@ -48,7 +48,7 @@
 ---
 
 ## ⚡ Fun Fact
-💡 I turn coffee ☕ into code and ideas into projects 🚀
+💡 I stopped drinking tea since yesterday ☕
 
 </td>
 
