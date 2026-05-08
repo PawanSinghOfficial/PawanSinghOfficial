@@ -88,7 +88,6 @@ I stopped drinking tea since yesterday ☕
 - hackathon finalist (10+) 
 - Constantly improving dev & problem-solving skills  
 
---
 ## 📊 GitHub Stats
 
 <p align="center">
